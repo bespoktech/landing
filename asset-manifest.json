@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "http://localhost:3000/static/css/main.6dea0f05.chunk.css",
-    "main.js": "http://localhost:3000/static/js/main.b78440cf.chunk.js",
-    "main.js.map": "http://localhost:3000/static/js/main.b78440cf.chunk.js.map",
-    "runtime-main.js": "http://localhost:3000/static/js/runtime-main.0955c1bb.js",
-    "runtime-main.js.map": "http://localhost:3000/static/js/runtime-main.0955c1bb.js.map",
-    "static/js/2.c6db34e3.chunk.js": "http://localhost:3000/static/js/2.c6db34e3.chunk.js",
-    "static/js/2.c6db34e3.chunk.js.map": "http://localhost:3000/static/js/2.c6db34e3.chunk.js.map",
-    "index.html": "http://localhost:3000/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "http://localhost:3000/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.c6db34e3.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/2.c6db34e3.chunk.js.LICENSE.txt"
+    "main.css": "https://bespoktech.github.io/landing/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://bespoktech.github.io/landing/static/js/main.53d72447.chunk.js",
+    "main.js.map": "https://bespoktech.github.io/landing/static/js/main.53d72447.chunk.js.map",
+    "runtime-main.js": "https://bespoktech.github.io/landing/static/js/runtime-main.5e01139b.js",
+    "runtime-main.js.map": "https://bespoktech.github.io/landing/static/js/runtime-main.5e01139b.js.map",
+    "static/js/2.3b133d21.chunk.js": "https://bespoktech.github.io/landing/static/js/2.3b133d21.chunk.js",
+    "static/js/2.3b133d21.chunk.js.map": "https://bespoktech.github.io/landing/static/js/2.3b133d21.chunk.js.map",
+    "index.html": "https://bespoktech.github.io/landing/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://bespoktech.github.io/landing/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3b133d21.chunk.js.LICENSE.txt": "https://bespoktech.github.io/landing/static/js/2.3b133d21.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0955c1bb.js",
-    "static/js/2.c6db34e3.chunk.js",
+    "static/js/runtime-main.5e01139b.js",
+    "static/js/2.3b133d21.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.b78440cf.chunk.js"
+    "static/js/main.53d72447.chunk.js"
   ]
 }
